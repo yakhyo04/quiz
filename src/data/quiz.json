@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "question": "He .... very tired, he is falling asleep.",
+      "choices": ["are", "is", "in", "am"],
+      "answer": "is"
+    },
+    {
+      "question": " I am going to .... a shower.",
+      "choices": ["make", "wash", "take", "do"],
+      "answer": "take"
+    },
+    {
+      "question": "I can't believe you went to school .....",
+      "choices": ["with your feet", "on foot", "by feet", "with walking"],
+      "answer": "on foot"
+    },
+    {
+      "question": "He is not a doctor, ....?",
+      "choices": ["is him", "does he", "he is", "is he"],
+      "answer": "is he"
+    },
+    {
+      "question": "What ... those people doing?",
+      "choices": ["is", "all", "are", "some"],
+      "answer": "are"
+    },
+    {
+      "question": "I am very ...., I can eat a cow.",
+      "choices": ["thirsty","hungry","tired","cold"],
+      "answer": "hungry"
+    },
+    {
+      "question": "United States is a beautiful ....",
+      "choices": ["city","town","continent","country"],
+      "answer": "country"
+    },
+    {
+      "question": "I think Josh is a little bit .... than you.",
+      "choices": ["more tall","taller","tallest","most taller"],
+      "answer": "taller"
+    },
+    {
+      "question": "He .... got a nice house.",
+      "choices": ["have"," has","is","-"],
+      "answer": "has"
+    },
+    {
+      "question": "The .... is very bad today, it is raining cats and dogs.",
+      "choices": ["whether"," air","weather","temp"],
+      "answer": "weather"
+    },
+    {
+      "question": "When .... you go on a vacation? Tomorrow.",
+      "choices": ["do"," did","are","will"],
+      "answer": "will"
+    },
+    {
+      "question": "How .... apples have you eaten? I have had three.",
+      "choices": ["big","many","much","quantity"],
+      "answer": "many"
+    },
+    {
+      "question": "Do you watch any movies .... TV?",
+      "choices": ["with","on","in","above"],
+      "answer": "on"
+    },
+    {
+      "question": "Don't disturb me, I .... for an important exam.",
+      "choices": ["am studying","study","studied","studying"],
+      "answer": "am studying"
+    },
+    {
+      "question": ".... you ever seen a castle?",
+      "choices": ["Are","Have","Do","Did"],
+      "answer": "Have"
+    }
+  ]
+}
